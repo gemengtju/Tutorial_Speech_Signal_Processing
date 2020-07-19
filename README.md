@@ -1,4 +1,4 @@
-# Speech Separation and Extraction via Deep Learning
+# Speech Signal Processing Tutorial
 
 This repo summarizes the courses and materials for speech signal processing. You are kindly invited to pull requests. 
 
