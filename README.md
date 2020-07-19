@@ -41,7 +41,7 @@ This repo summarizes the courses and materials for speech signal processing. You
 
 ### Books
 
-- [Kaldi Tutorial] [Book](https://www.eleanorchodroff.com/tutorial/kaldi/)
+- [Kaldi Tutorial] [[Book]](https://www.eleanorchodroff.com/tutorial/kaldi/)
 
 - [Speech Book, CSTL Lab of Tsinghua University] [[Book]](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Speech_book)
 
