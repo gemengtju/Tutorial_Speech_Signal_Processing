@@ -58,6 +58,6 @@ This repo summarizes the courses and materials for speech signal processing. You
 
 - [Speech Separation Tutorial] [[Link]](https://github.com/gemengtju/Tutorial_Separation)
 
-- [Speech Enhancement Tutorial] [[Link]](https://github.com/nanahou/Awesome-Speech-Enhancement) [[Link]](https://github.com/hshi-cca/Research-and-Analysis-of-Speech-Enhancement-or-Dereverberation/blob/master/README.md)
+- [Speech Enhancement Tutorial] [[Link (Nana)]](https://github.com/nanahou/Awesome-Speech-Enhancement) [[Link (Haoshi)]](https://github.com/hshi-cca/Research-and-Analysis-of-Speech-Enhancement-or-Dereverberation/blob/master/README.md)
 
 - [Speech Recognition Tutorial] [[Link]](https://pan.baidu.com/share/init?surl=y3j6HAKYlGBXf-TqZo5Ehg)
