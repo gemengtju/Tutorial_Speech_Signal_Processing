@@ -8,6 +8,7 @@ This repo summarizes the courses and materials for speech signal processing. You
 - [Tutorials](#Toturials)
     - [Courses](#Courses)
     - [Books](#Books)
+    - [Presentations](#Presentations)
 
 
 ## Tutorials
@@ -42,9 +43,11 @@ This repo summarizes the courses and materials for speech signal processing. You
 
 - [Kaldi Tutorial] [Book](https://www.eleanorchodroff.com/tutorial/kaldi/)
 
+- [Speech Book, CSTL Lab of Tsinghua University] [[Book]](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Speech_book)
+
 - [Kaidi: Speech Recognition Practice (Chinese), Guoguo Chen] [[Book]](https://item.jd.com/12833388.html)
 
-- [Speech Book, CSTL Lab of Tsinghua University] [[Book]](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Speech_book)
+- [Analytic deep learning: The practice of Speech recognition, Dong Yu] [[Book]](https://item.jd.com/11933855.html)
 
 ### Presentations
 
