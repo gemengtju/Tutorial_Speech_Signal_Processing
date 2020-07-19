@@ -37,7 +37,7 @@ This repo summarizes the courses and materials for speech signal processing. You
 
 - [Speech Technology: Frontiers and Applications (Chinese), Xiangang Li et al, 2019] [[Course]](https://www.shenlanxueyuan.com/course/243)
 
-- [Speech Processing, CMU, 2011] [[Course]]
+- [Speech Processing, CMU, 2011] [[Course]](http://www.speech.cs.cmu.edu/15-492/)
 
 ### Books
 
