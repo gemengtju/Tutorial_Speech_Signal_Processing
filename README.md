@@ -9,7 +9,7 @@ This repo summarizes the courses and materials for speech signal processing. You
     - [Courses](#Courses)
     - [Books](#Books)
     - [Presentations](#Presentations)
-- [Related Link](#related-link)
+- [Related Links](#related-links)
 
 ## Tutorials
 
