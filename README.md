@@ -68,4 +68,4 @@ This repo summarizes the courses and materials for speech signal processing. You
 
 - [Speech Enhancement Tutorial] [[Link (Nana)]](https://github.com/nanahou/Awesome-Speech-Enhancement) [[Link (Haoshi)]](https://github.com/hshi-cca/Research-and-Analysis-of-Speech-Enhancement-or-Dereverberation/blob/master/README.md)
 
-- [Speech Recognition Tutorial] [[Link]](https://pan.baidu.com/share/init?surl=y3j6HAKYlGBXf-TqZo5Ehg)
+- [Speech Recognition Tutorial] [[Link (PWD:u4qj)]](https://pan.baidu.com/share/init?surl=y3j6HAKYlGBXf-TqZo5Ehg)
