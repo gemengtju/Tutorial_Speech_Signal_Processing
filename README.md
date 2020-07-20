@@ -57,7 +57,7 @@ This repo summarizes the courses and materials for speech signal processing. You
 
 - [Kaidi: Speech Recognition Practice (Chinese), Guoguo Chen] [[Book]](https://item.jd.com/12833388.html)
 
-- [Tool Books] [[AWK]](https://github.com/gemengtju/Tutorial_Speech_Signal_Processing/blob/master/book/The_AWK_Programming_Language.pdf) [[Shell]]
+- [Tool Books] [[AWK]](https://github.com/gemengtju/Tutorial_Speech_Signal_Processing/blob/master/book/The_AWK_Programming_Language.pdf) [[Shell]](https://github.com/gemengtju/Tutorial_Speech_Signal_Processing/blob/master/book/Linux%20Shell%E8%84%9A%E6%9C%AC%E6%94%BB%E7%95%A5%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 
 ### Presentations
 
