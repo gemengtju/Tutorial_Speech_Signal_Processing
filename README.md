@@ -45,6 +45,8 @@ This repo summarizes the courses and materials for speech signal processing. You
 
 - [Speech and Language Processing, Daniel Jurafsky, 2017] [[Book (Ed3)]](https://github.com/gemengtju/Tutorial_Speech_Signal_Processing/blob/master/book/ed3book.pdf) [[Book (Ed2)]](https://github.com/gemengtju/Tutorial_Speech_Signal_Processing/blob/master/book/Daniel%20Jurafsky%2C%20James%20H.%20Martin-Speech%20and%20Language%20Processing_%20An%20Introduction%20to%20Natural%20Language%20Processing%2C%20Computational%20Linguistics%2C%20and%20Speech%20Recognition%20(2nd%20Edition)-Prentice%20Hall%20(2008).pdf)
 
+- [解析深度学习：语音识别实践, Dong Yu] [[Book]](https://github.com/gemengtju/Tutorial_Speech_Signal_Processing/blob/master/book/%E4%BF%9E%E6%A0%8B%E9%82%93%E5%8A%9B%20%E8%A7%A3%E6%9E%90%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E5%AE%9E%E8%B7%B5.pdf)
+
 - [语音信号处理, 赵力, 2003] [[Book]](https://github.com/gemengtju/Tutorial_Speech_Signal_Processing/blob/master/book/%E8%AF%AD%E9%9F%B3%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%20%E8%B5%B5%E5%8A%9B.pdf)
 
 - [实用语音识别基础, 王炳锡, 2005] [[Book]](https://github.com/gemengtju/Tutorial_Speech_Signal_Processing/blob/master/book/%E5%AE%9E%E7%94%A8%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E5%9F%BA%E7%A1%80.PDF)
@@ -54,10 +56,6 @@ This repo summarizes the courses and materials for speech signal processing. You
 - [Speech Book, CSTL Lab of Tsinghua University] [[Book]](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Speech_book)
 
 - [Kaidi: Speech Recognition Practice (Chinese), Guoguo Chen] [[Book]](https://item.jd.com/12833388.html)
-
-- [解析深度学习：语音识别实践, Dong Yu] [[Book]](https://item.jd.com/11933855.html)
-
-- []
 
 ### Presentations
 
